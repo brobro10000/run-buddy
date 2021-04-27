@@ -125,10 +125,6 @@ section {
     color: #fce138
 }
 /* Hero Style End */
-.intro {
-
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -140,12 +136,6 @@ section {
 .steps {
  
     background: #fce138;
-}
-.steps img {
-
-}
-.steps span {
- 
 }
 .step{
     margin: 50px auto;
@@ -255,9 +245,6 @@ section {
 }
 .contact h2 {
     color:#fce138;
-}
-.contact-info iframe {
-
 }
 .contact-info div{
     color: white;
